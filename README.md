@@ -24,9 +24,6 @@ https://user-images.githubusercontent.com/85713622/141671289-ea0d2943-1182-41c6-
 
 
 
-
-![Link to interface] (http://localhost:8501/)
-
 ## Contributors(ing)
 This a project designed by:
 
